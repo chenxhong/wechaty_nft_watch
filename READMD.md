@@ -1,0 +1,1 @@
+watch nft mint on eth mainnet use wechaty to relay wechat
